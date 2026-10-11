@@ -19,3 +19,8 @@ analyse their trading performance.
 To build a platform that helps traders review their
 trading history, understand their performance, and
 identify areas for improvement.
+
+## Development Status
+
+- Currently building the project step by step.
+- HTML structure completed; CSS and JavaScript are planned next.
